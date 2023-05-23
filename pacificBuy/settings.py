@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'base',
     'pacificAuth',
     'fontawesomefree',
+    'rest_framework',
+    'rest_api',
    
     
  
