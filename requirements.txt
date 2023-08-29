@@ -9,7 +9,6 @@ colorama==0.4.6
 cryptography==38.0.4
 cssutils==2.6.0
 defusedxml==0.7.1
-Django==4.1.4
 django-allauth==0.51.0
 django-environ==0.9.0
 django-inlinecss==0.3.0
